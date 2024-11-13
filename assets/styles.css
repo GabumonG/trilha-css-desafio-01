@@ -3,6 +3,8 @@
 body{
     background-color: black;
     font-family: ralewawy, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .banner {
@@ -25,7 +27,6 @@ body{
 }
 
 .banner-content {
-    text-align: center;
     color: white;
     width: 600px; /* Usa quase toda a largura da tela */
     max-width: 600px; /* Largura máxima */
